@@ -1,0 +1,60 @@
+{
+    "items": [
+        {
+            "id": 1,
+            "name": "Пицца Маргарита",
+            "description": "Классическая пицца с томатным соусом, моцареллой и базиликом",
+            "price": 450,
+            "category": "food",
+            "image": "https://img.freepik.com/free-photo/top-view-pepperoni-pizza-with-mushroom-sausages-bell-pepper-olive-corn-black-wooden_141793-2158.jpg"
+        },
+        {
+            "id": 2,
+            "name": "Бургер Чизбургер",
+            "description": "Аппетитный бургер с говяжьей котлетой, сыром и овощами",
+            "price": 350,
+            "category": "food",
+            "image": "https://img.freepik.com/free-photo/front-view-tasty-meat-burger-with-cheese-salad-dark-background_140725-89597.jpg"
+        },
+        {
+            "id": 3,
+            "name": "Салат Цезарь",
+            "description": "Свежий салат с курицей, листьями салата, сухариками и соусом Цезарь",
+            "price": 300,
+            "category": "food",
+            "image": "https://img.freepik.com/free-photo/side-view-caesar-salad-with-chicken-parmesan-cheese-croutons-tomatoes-plate_141793-4763.jpg"
+        },
+        {
+            "id": 4,
+            "name": "Кола",
+            "description": "Освежающий газированный напиток",
+            "price": 120,
+            "category": "drinks",
+            "image": "https://img.freepik.com/free-photo/cola-drink-glass_144627-16201.jpg"
+        },
+        {
+            "id": 5,
+            "name": "Апельсиновый сок",
+            "description": "Натуральный свежевыжатый апельсиновый сок",
+            "price": 180,
+            "category": "drinks",
+            "image": "https://img.freepik.com/free-photo/glass-fresh-orange-juice_144627-26425.jpg"
+        },
+        {
+            "id": 6,
+            "name": "Тирамису",
+            "description": "Итальянский десерт из печенья савоярди, сыра маскарпоне и кофе",
+            "price": 280,
+            "category": "desserts",
+            "image": "https://img.freepik.com/free-photo/delicious-tiramisu-cake_144627-12484.jpg"
+        },
+        {
+            "id": 7,
+            "name": "Чизкейк",
+            "description": "Нежный чизкейк с ягодным соусом",
+            "price": 250,
+            "category": "desserts",
+            "image": "https://img.freepik.com/free-photo/slice-cake-with-berries_144627-26405.jpg"
+        }
+    ]
+}
