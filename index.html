@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>FoodRUT - Доставка еды</title>
+    <link rel="stylesheet" href="style.css">
+    <script src="https://telegram.org/js/telegram-web-app.js"></script>
+</head>
+<body>
+    <div class="container">
+        <header>
+            <h1>🍔 FoodRUT</h1>
+            <p>Доставка вкусной еды прямо к вам!</p>
+        </header>
+
+        <div class="tabs">
+            <button class="tab-button active" data-tab="menu">Меню</button>
+            <button class="tab-button" data-tab="reviews">Отзывы</button>
+            <button class="tab-button" data-tab="add-review">Оставить отзыв</button>
+        </div>
+
+        <div id="menu" class="tab-content active">
+            <div class="category-selector">
+                <button class="category-btn active" data-category="all">Все</button>
+                <button class="category-btn" data-category="food">Еда</button>
+                <button class="category-btn" data-category="drinks">Напитки</button>
+                <button class="category-btn" data-category="desserts">Десерты</button>
+            </div>
+            
+            <div id="menu-items" class="menu-grid">
+                <!-- Здесь будут отображаться элементы меню -->
+            </div>
+        </div>
+
+        <div id="reviews" class="tab-content">
+            <div id="reviews-list">
+                <!-- Здесь будут отображаться отзывы -->
+            </div>
+        </div>
+
+        <div id="add-review" class="tab-content">
+            <form id="review-form">
+                <div class="form-group">
+                    <label for="review-name">Ваше имя:</label>
+                    <input type="text" id="review-name" required>
+                </div>
+                <div class="form-group">
+                    <label for="review-rating">Оценка:</label>
+                    <select id="review-rating" required>
+                        <option value="5">Отлично (5)</option>
+                        <option value="4">Хорошо (4)</option>
+                        <option value="3">Удовлетворительно (3)</option>
+                        <option value="2">Плохо (2)</option>
+                        <option value="1">Ужасно (1)</option>
+                    </select>
+                </div>
+                <div class="form-group">
+                    <label for="review-text">Ваш отзыв:</label>
+                    <textarea id="review-text" rows="4" required></textarea>
+                </div>
+                <button type="submit" class="submit-btn">Отправить отзыв</button>
+            </form>
+        </div>
+    </div>
+
+    <script src="app.js"></script>
+</body>
+</html>
