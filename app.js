@@ -201,22 +201,6 @@ const menuData = {
             "price": 180,
             "category": "drinks",
             "image": "https://img.freepik.com/free-photo/glass-fresh-orange-juice_144627-26425.jpg"
-        },
-        {
-            "id": 6,
-            "name": "Тирамису",
-            "description": "Итальянский десерт из печенья савоярди, сыра маскарпоне и кофе",
-            "price": 280,
-            "category": "desserts",
-            "image": "https://img.freepik.com/free-photo/delicious-tiramisu-cake_144627-12484.jpg"
-        },
-        {
-            "id": 7,
-            "name": "Чизкейк",
-            "description": "Нежный чизкейк с ягодным соусом",
-            "price": 250,
-            "category": "desserts",
-            "image": "https://img.freepik.com/free-photo/slice-cake-with-berries_144627-26405.jpg"
         }
     ]
 };
@@ -226,16 +210,16 @@ let reviewsData = [
     {
         id: 1,
         name: "Иван",
-        rating: 5,
-        text: "Отличная пицца! Быстрая доставка, вкусно и горячо.",
-        date: "2023-05-15"
+        rating: 1,
+        text: "Все ужасно.",
+        date: "2025-03-11"
     },
     {
         id: 2,
-        name: "Мария",
-        rating: 4,
-        text: "Вкусные бургеры, но ждала доставку дольше чем обычно.",
-        date: "2023-05-10"
+        name: "Олег",
+        rating: 2,
+        text: "Отвратительное место!",
+        date: "2025-03-11"
     }
 ];
 
