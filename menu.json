@@ -17,14 +17,6 @@
       "image": "https://img.freepik.com/free-photo/cola-drink-glass_144627-16201.jpg"
     },
     {
-      "id": 5,
-      "name": "Апельсиновый сок",
-      "description": "Натуральный свежевыжатый апельсиновый сок",
-      "price": 180,
-      "category": "drinks",
-      "image": "https://img.freepik.com/free-photo/glass-fresh-orange-juice_144627-26425.jpg"
-    },
-    {
       "id": 8,
       "name": "Картофельное пюре",
       "description": "Нежное пюре с молоком и маслом",
