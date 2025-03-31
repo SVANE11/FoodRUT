@@ -1,24 +1,6 @@
 // Данные меню
 const menuData = {
     "items": [
-        // Основные блюда
-        {
-            "id": 1,
-            "name": "Пицца Маргарита",
-            "description": "Классическая пицца с томатным соусом, моцареллой и базиликом",
-            "price": 450,
-            "category": "food",
-            "image": "https://im1g.freepik.com/free-photo/top-view-pepperoni-pizza-with-mushroom-sausages-bell-pepper-olive-corn-black-wooden_141793-2158.jpg"
-        },
-        {
-            "id": 2,
-            "name": "Бургер Чизбургер",
-            "description": "Аппетитный бургер с говяжьей котлетой, сыром и овощами",
-            "price": 350,
-            "category": "food",
-            "image": "https://im1g.freepik.com/free-photo/front-view-tasty-meat-burger-with-cheese-salad-dark-background_140725-89597.jpg"
-        },
-        
         // Гарниры
         {
             "id": 8,
@@ -26,7 +8,7 @@ const menuData = {
             "description": "Нежное пюре с молоком и маслом",
             "price": 75,
             "category": "garnishes",
-            "image": "https://im1g.freepik.com/free-photo/mashed-potatoes_1194-6938.jpg"
+            "image": "https://www.freepik.com/free-photo/buckwheat-porridge-wooden-bowl_7090600.htm#fromView=search&page=1&position=3&uuid=9565d93d-ac46-42e2-a86a-e57b94cbb8e0&query=гречка"
         },
         {
             "id": 9,
@@ -42,7 +24,7 @@ const menuData = {
             "description": "Итальянские макароны al dente",
             "price": 55,
             "category": "garnishes",
-            "image": "https://img.freepik.com/free-photo/penne-pasta-tomato-sauce-with-chicken-tomatoes-wooden-table_1150-42580.jpg"
+            "image": "https://www.freepik.com/free-photo/buckwheat-porridge-wooden-bowl_7090600.htm#fromView=search&page=1&position=3&uuid=9565d93d-ac46-42e2-a86a-e57b94cbb8e0&query=гречка"
         },
         {
             "id": 11,
@@ -50,7 +32,7 @@ const menuData = {
             "description": "Рис отварной с маслом",
             "price": 55,
             "category": "garnishes",
-            "image": "https://img.freepik.com/free-photo/rice_144627-34290.jpg"
+            "image": "https://www.freepik.com/free-photo/buckwheat-porridge-wooden-bowl_7090600.htm#fromView=search&page=1&position=3&uuid=9565d93d-ac46-42e2-a86a-e57b94cbb8e0&query=гречка"
         },
         {
             "id": 12,
@@ -58,7 +40,7 @@ const menuData = {
             "description": "Свежая брокколи на пару",
             "price": 85,
             "category": "garnishes",
-            "image": "https://img.freepik.com/free-photo/broccoli_144627-25591.jpg"
+            "image": "https://www.freepik.com/free-photo/buckwheat-porridge-wooden-bowl_7090600.htm#fromView=search&page=1&position=3&uuid=9565d93d-ac46-42e2-a86a-e57b94cbb8e0&query=гречка"
         },
         {
             "id": 13,
@@ -66,7 +48,7 @@ const menuData = {
             "description": "Стручковая фасоль с чесноком",
             "price": 85,
             "category": "garnishes",
-            "image": "https://img.freepik.com/free-photo/green-beans_144627-25590.jpg"
+            "image": "https://www.freepik.com/free-photo/buckwheat-porridge-wooden-bowl_7090600.htm#fromView=search&page=1&position=3&uuid=9565d93d-ac46-42e2-a86a-e57b94cbb8e0&query=гречка"
         },
         {
             "id": 14,
@@ -74,7 +56,7 @@ const menuData = {
             "description": "Ароматный запечённый картофель с травами",
             "price": 80,
             "category": "garnishes",
-            "image": "https://img.freepik.com/free-photo/rustic-potatoes_144627-25592.jpg"
+            "image": "https://www.freepik.com/free-photo/buckwheat-porridge-wooden-bowl_7090600.htm#fromView=search&page=1&position=3&uuid=9565d93d-ac46-42e2-a86a-e57b94cbb8e0&query=гречка"
         },
         {
             "id": 15,
@@ -82,7 +64,7 @@ const menuData = {
             "description": "Хрустящий картофель фри",
             "price": 80,
             "category": "garnishes",
-            "image": "https://img.freepik.com/free-photo/french-fries_144627-25593.jpg"
+            "image": "https://www.freepik.com/free-photo/buckwheat-porridge-wooden-bowl_7090600.htm#fromView=search&page=1&position=3&uuid=9565d93d-ac46-42e2-a86a-e57b94cbb8e0&query=гречка"
         },
         
         // Вторые блюда
@@ -92,7 +74,7 @@ const menuData = {
             "description": "Нежный куриный шницель в панировке",
             "price": 175,
             "category": "main_courses",
-            "image": "https://img.freepik.com/free-photo/chicken-schnitzel_144627-25594.jpg"
+            "image": "https://www.freepik.com/free-photo/buckwheat-porridge-wooden-bowl_7090600.htm#fromView=search&page=1&position=3&uuid=9565d93d-ac46-42e2-a86a-e57b94cbb8e0&query=гречка"
         },
         {
             "id": 17,
@@ -100,7 +82,7 @@ const menuData = {
             "description": "Курица под сырной корочкой",
             "price": 190,
             "category": "main_courses",
-            "image": "https://img.freepik.com/free-photo/french-chicken_144627-25595.jpg"
+            "image": "https://www.freepik.com/free-photo/buckwheat-porridge-wooden-bowl_7090600.htm#fromView=search&page=1&position=3&uuid=9565d93d-ac46-42e2-a86a-e57b94cbb8e0&query=гречка"
         },
         {
             "id": 18,
@@ -108,7 +90,7 @@ const menuData = {
             "description": "Сочная котлета из говядины",
             "price": 140,
             "category": "main_courses",
-            "image": "https://img.freepik.com/free-photo/beef-cutlet_144627-25596.jpg"
+            "image": "https://www.freepik.com/free-photo/buckwheat-porridge-wooden-bowl_7090600.htm#fromView=search&page=1&position=3&uuid=9565d93d-ac46-42e2-a86a-e57b94cbb8e0&query=гречка"
         },
         {
             "id": 19,
@@ -116,7 +98,7 @@ const menuData = {
             "description": "Гуляш из говядины с подливкой",
             "price": 140,
             "category": "main_courses",
-            "image": "https://img.freepik.com/free-photo/beef-goulash_144627-25597.jpg"
+            "image": "https://www.freepik.com/free-photo/buckwheat-porridge-wooden-bowl_7090600.htm#fromView=search&page=1&position=3&uuid=9565d93d-ac46-42e2-a86a-e57b94cbb8e0&query=гречка"
         },
         {
             "id": 20,
@@ -124,7 +106,7 @@ const menuData = {
             "description": "Нежная треска с лимоном и травами",
             "price": 180,
             "category": "main_courses",
-            "image": "https://img.freepik.com/free-photo/baked-cod_144627-25598.jpg"
+            "image": "https://www.freepik.com/free-photo/buckwheat-porridge-wooden-bowl_7090600.htm#fromView=search&page=1&position=3&uuid=9565d93d-ac46-42e2-a86a-e57b94cbb8e0&query=гречка"
         },
         
         // Салаты
@@ -134,7 +116,7 @@ const menuData = {
             "description": "Классический Цезарь с курицей и соусом",
             "price": 180,
             "category": "salads",
-            "image": "https://img.freepik.com/free-photo/caesar-salad_144627-25599.jpg"
+            "image": "https://www.freepik.com/free-photo/buckwheat-porridge-wooden-bowl_7090600.htm#fromView=search&page=1&position=3&uuid=9565d93d-ac46-42e2-a86a-e57b94cbb8e0&query=гречка"
         },
         {
             "id": 22,
@@ -142,7 +124,7 @@ const menuData = {
             "description": "Свежие овощи с фетой и оливками",
             "price": 100,
             "category": "salads",
-            "image": "https://img.freepik.com/free-photo/greek-salad_144627-25600.jpg"
+            "image": "https://www.freepik.com/free-photo/buckwheat-porridge-wooden-bowl_7090600.htm#fromView=search&page=1&position=3&uuid=9565d93d-ac46-42e2-a86a-e57b94cbb8e0&query=гречка"
         },
         {
             "id": 23,
@@ -150,7 +132,7 @@ const menuData = {
             "description": "Классический салат Оливье",
             "price": 80,
             "category": "salads",
-            "image": "https://img.freepik.com/free-photo/olivier-salad_144627-25601.jpg"
+            "image": "https://www.freepik.com/free-photo/buckwheat-porridge-wooden-bowl_7090600.htm#fromView=search&page=1&position=3&uuid=9565d93d-ac46-42e2-a86a-e57b94cbb8e0&query=гречка"
         },
         {
             "id": 24,
@@ -158,7 +140,7 @@ const menuData = {
             "description": "Нежный салат с курицей и ананасами",
             "price": 95,
             "category": "salads",
-            "image": "https://img.freepik.com/free-photo/chicken-pineapple-salad_144627-25602.jpg"
+            "image": "https://www.freepik.com/free-photo/buckwheat-porridge-wooden-bowl_7090600.htm#fromView=search&page=1&position=3&uuid=9565d93d-ac46-42e2-a86a-e57b94cbb8e0&query=гречка"
         },
         {
             "id": 25,
@@ -166,7 +148,7 @@ const menuData = {
             "description": "Овощной винегрет с фасолью",
             "price": 65,
             "category": "salads",
-            "image": "https://img.freepik.com/free-photo/vinegret_144627-25603.jpg"
+            "image": "https://www.freepik.com/free-photo/buckwheat-porridge-wooden-bowl_7090600.htm#fromView=search&page=1&position=3&uuid=9565d93d-ac46-42e2-a86a-e57b94cbb8e0&query=гречка"
         },
         {
             "id": 26,
@@ -174,7 +156,7 @@ const menuData = {
             "description": "Классическая селёдка под шубой",
             "price": 110,
             "category": "salads",
-            "image": "https://img.freepik.com/free-photo/herring-under-fur-coat_144627-25604.jpg"
+            "image": "https://www.freepik.com/free-photo/buckwheat-porridge-wooden-bowl_7090600.htm#fromView=search&page=1&position=3&uuid=9565d93d-ac46-42e2-a86a-e57b94cbb8e0&query=гречка"
         },
         {
             "id": 27,
@@ -182,7 +164,7 @@ const menuData = {
             "description": "Свежие сезонные овощи",
             "price": 65,
             "category": "salads",
-            "image": "https://img.freepik.com/free-photo/vegetable-salad_144627-25605.jpg"
+            "image": "https://www.freepik.com/free-photo/buckwheat-porridge-wooden-bowl_7090600.htm#fromView=search&page=1&position=3&uuid=9565d93d-ac46-42e2-a86a-e57b94cbb8e0&query=гречка"
         },
         
         // Напитки и десерты
@@ -194,14 +176,6 @@ const menuData = {
             "category": "drinks",
             "image": "https://img.freepik.com/free-photo/cola-drink-glass_144627-16201.jpg"
         },
-        {
-            "id": 5,
-            "name": "Апельсиновый сок",
-            "description": "Натуральный свежевыжатый апельсиновый сок",
-            "price": 180,
-            "category": "drinks",
-            "image": "https://img.freepik.com/free-photo/glass-fresh-orange-juice_144627-26425.jpg"
-        }
     ]
 };
 
