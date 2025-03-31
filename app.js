@@ -174,7 +174,7 @@ const menuData = {
             "description": "Освежающий газированный напиток",
             "price": 120,
             "category": "drinks",
-            "image": "https://img.freepik.com/free-photo/cola-drink-glass_144627-16201.jpg"
+            "image": "https://img.freep1ik.com/free-photo/cola-drink-glass_144627-16201.jpg"
         },
     ]
 };
