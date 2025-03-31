@@ -8,7 +8,7 @@ const menuData = {
             "description": "Классическая пицца с томатным соусом, моцареллой и базиликом",
             "price": 450,
             "category": "food",
-            "image": "https://img.freepik.com/free-photo/top-view-pepperoni-pizza-with-mushroom-sausages-bell-pepper-olive-corn-black-wooden_141793-2158.jpg"
+            "image": "https://im1g.freepik.com/free-photo/top-view-pepperoni-pizza-with-mushroom-sausages-bell-pepper-olive-corn-black-wooden_141793-2158.jpg"
         },
         {
             "id": 2,
@@ -16,7 +16,7 @@ const menuData = {
             "description": "Аппетитный бургер с говяжьей котлетой, сыром и овощами",
             "price": 350,
             "category": "food",
-            "image": "https://img.freepik.com/free-photo/front-view-tasty-meat-burger-with-cheese-salad-dark-background_140725-89597.jpg"
+            "image": "https://im1g.freepik.com/free-photo/front-view-tasty-meat-burger-with-cheese-salad-dark-background_140725-89597.jpg"
         },
         
         // Гарниры
@@ -26,7 +26,7 @@ const menuData = {
             "description": "Нежное пюре с молоком и маслом",
             "price": 75,
             "category": "garnishes",
-            "image": "https://img.freepik.com/free-photo/mashed-potatoes_1194-6938.jpg"
+            "image": "https://im1g.freepik.com/free-photo/mashed-potatoes_1194-6938.jpg"
         },
         {
             "id": 9,
