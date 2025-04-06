@@ -24,7 +24,7 @@ const menuData = {
             "description": "Итальянские макароны al dente",
             "price": 55,
             "category": "garnishes",
-            "image": "https://www.freepik.com/free-photo/buckwheat-porridge-wooden-bowl_7090600.htm#fromView=search&page=1&position=3&uuid=9565d93d-ac46-42e2-a86a-e57b94cbb8e0&query=гречка"
+            "image": "https://img.freepik.com/free-photo/tortiglioni-pasta-bowl-wooden-table-high-angle-view_176474-7072.jpg"
         },
         {
             "id": 11,
@@ -32,7 +32,7 @@ const menuData = {
             "description": "Рис отварной с маслом",
             "price": 55,
             "category": "garnishes",
-            "image": "https://www.freepik.com/free-photo/buckwheat-porridge-wooden-bowl_7090600.htm#fromView=search&page=1&position=3&uuid=9565d93d-ac46-42e2-a86a-e57b94cbb8e0&query=гречка"
+            "image": "https://img.freepik.com/free-photo/elegant-minimalistic-rice-bowl_23-2149483988.jpg"
         },
         {
             "id": 12,
