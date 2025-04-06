@@ -8,7 +8,7 @@ const menuData = {
             "description": "Нежное пюре с молоком и маслом",
             "price": 75,
             "category": "garnishes",
-            "image": "https://www.freepik.com/free-photo/buckwheat-porridge-wooden-bowl_7090600.htm#fromView=search&page=1&position=3&uuid=9565d93d-ac46-42e2-a86a-e57b94cbb8e0&query=гречка"
+            "image": "https://img.freepik.com/free-photo/mashed-potatoes-in-a-white-bowl_1147-459.jpg"
         },
         {
             "id": 9,
@@ -16,7 +16,7 @@ const menuData = {
             "description": "Ароматная гречневая каша",
             "price": 55,
             "category": "garnishes",
-            "image": "https://www.freepik.com/free-photo/buckwheat-porridge-wooden-bowl_7090600.htm#fromView=search&page=1&position=3&uuid=9565d93d-ac46-42e2-a86a-e57b94cbb8e0&query=гречка"
+            "image": "https://img.freepik.com/premium-photo/boiled-buckwheat-plate-isolated-white_711700-2035.jpg"
         },
         {
             "id": 10,
