@@ -8,7 +8,7 @@ const menuData = {
             "description": "Нежное пюре с молоком и маслом",
             "price": 75,
             "category": "garnishes",
-            "image": "https://img.freepik.com/free-photo/mashed-potatoes-in-a-white-bowl_1147-459.jpg"
+            "image": "https://img.freepik.com/free-photo/fresh-flavorful-mashed-potatoes_2829-11577.jpg"
         },
         {
             "id": 9,
