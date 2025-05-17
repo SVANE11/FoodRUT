@@ -116,7 +116,7 @@ const menuData = {
             "description": "Классический Цезарь с курицей и соусом",
             "price": 180,
             "category": "salads",
-            "image": "https://img.freepik.com/free-photo/chicken-caesar-salad-plate_140725-2358.jpg?ga=GA1.1.1211218396.1743407391&semt=ais_hybrid&w=740"
+            "image": "https://img.freepik.com/free-photo/chicken-parmesan-caesar-salad-with-lettuce-cherry-tomatoes-inside-white-bowl-served-with-sauce-bread_114579-204.jpg?ga=GA1.1.1211218396.1743407391&semt=ais_hybrid&w=740"
         },
         {
             "id": 22,
