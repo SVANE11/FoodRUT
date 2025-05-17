@@ -65,7 +65,7 @@ const menuData = {
             "description": "Хрустящий картофель фри",
             "price": 80,
             "category": "garnishes",
-            "image": "https://www.freepik.com/free-photo/buckwheat-porridge-wooden-bowl_7090600.htm#fromView=search&page=1&position=3&uuid=9565d93d-ac46-42e2-a86a-e57b94cbb8e0&query=гречка"
+            "image": "https://img.freepik.com/free-photo/crispy-french-fries-with-ketchup-mayonnaise_1150-26588.jpg?ga=GA1.1.1211218396.1743407391&semt=ais_hybrid&w=740"
         },
         
         // Вторые блюда
@@ -75,7 +75,7 @@ const menuData = {
             "description": "Нежный куриный шницель в панировке",
             "price": 175,
             "category": "main_courses",
-            "image": "https://www.freepik.com/free-photo/buckwheat-porridge-wooden-bowl_7090600.htm#fromView=search&page=1&position=3&uuid=9565d93d-ac46-42e2-a86a-e57b94cbb8e0&query=гречка"
+            "image": "https://img.freepik.com/free-photo/chicken-fillet-batter-with-mayonnaise_140725-3076.jpg?ga=GA1.1.1211218396.1743407391&semt=ais_hybrid&w=740"
         },
         {
             "id": 17,
@@ -83,7 +83,7 @@ const menuData = {
             "description": "Курица под сырной корочкой",
             "price": 190,
             "category": "main_courses",
-            "image": "https://www.freepik.com/free-photo/buckwheat-porridge-wooden-bowl_7090600.htm#fromView=search&page=1&position=3&uuid=9565d93d-ac46-42e2-a86a-e57b94cbb8e0&query=гречка"
+            "image": "https://img.freepik.com/free-photo/top-view-baked-chicken-wedges-pan_23-2148682744.jpg?ga=GA1.1.1211218396.1743407391&semt=ais_hybrid&w=740"
         },
         {
             "id": 18,
@@ -91,7 +91,7 @@ const menuData = {
             "description": "Сочная котлета из говядины",
             "price": 140,
             "category": "main_courses",
-            "image": "https://www.freepik.com/free-photo/buckwheat-porridge-wooden-bowl_7090600.htm#fromView=search&page=1&position=3&uuid=9565d93d-ac46-42e2-a86a-e57b94cbb8e0&query=гречка"
+            "image": "https://img.freepik.com/free-photo/juicy-delicious-meat-cutlets-dark-table-russian-cuisine_2829-7278.jpg?ga=GA1.1.1211218396.1743407391&semt=ais_hybrid&w=740"
         },
         {
             "id": 19,
@@ -99,7 +99,7 @@ const menuData = {
             "description": "Гуляш из говядины с подливкой",
             "price": 140,
             "category": "main_courses",
-            "image": "https://www.freepik.com/free-photo/buckwheat-porridge-wooden-bowl_7090600.htm#fromView=search&page=1&position=3&uuid=9565d93d-ac46-42e2-a86a-e57b94cbb8e0&query=гречка"
+            "image": "https://img.freepik.com/free-photo/delicious-goulash-ready-dinner_23-2149370863.jpg?ga=GA1.1.1211218396.1743407391&semt=ais_hybrid&w=740"
         },
         {
             "id": 20,
@@ -107,7 +107,7 @@ const menuData = {
             "description": "Нежная треска с лимоном и травами",
             "price": 180,
             "category": "main_courses",
-            "image": "https://www.freepik.com/free-photo/buckwheat-porridge-wooden-bowl_7090600.htm#fromView=search&page=1&position=3&uuid=9565d93d-ac46-42e2-a86a-e57b94cbb8e0&query=гречка"
+            "image": "https://img.freepik.com/free-photo/delicious-mahi-mahi-fish-still-life_23-2150457373.jpg?ga=GA1.1.1211218396.1743407391&semt=ais_hybrid&w=740"
         },
         
         // Салаты
@@ -125,7 +125,7 @@ const menuData = {
             "description": "Свежие овощи с фетой и оливками",
             "price": 100,
             "category": "salads",
-            "image": "https://www.freepik.com/free-photo/buckwheat-porridge-wooden-bowl_7090600.htm#fromView=search&page=1&position=3&uuid=9565d93d-ac46-42e2-a86a-e57b94cbb8e0&query=гречка"
+            "image": "https://img.freepik.com/free-photo/delicious-salad-plate-high-angle_23-2149598995.jpg?ga=GA1.1.1211218396.1743407391&semt=ais_hybrid&w=740"
         },
         {
             "id": 23,
@@ -133,7 +133,7 @@ const menuData = {
             "description": "Классический салат Оливье",
             "price": 80,
             "category": "salads",
-            "image": "https://www.freepik.com/free-photo/buckwheat-porridge-wooden-bowl_7090600.htm#fromView=search&page=1&position=3&uuid=9565d93d-ac46-42e2-a86a-e57b94cbb8e0&query=гречка"
+            "image": "https://img.freepik.com/free-photo/traditional-russian-salad-olivier_2829-6254.jpg?ga=GA1.1.1211218396.1743407391&semt=ais_hybrid&w=740"
         },
         {
             "id": 24,
@@ -141,7 +141,7 @@ const menuData = {
             "description": "Нежный салат с курицей и ананасами",
             "price": 95,
             "category": "salads",
-            "image": "https://www.freepik.com/free-photo/buckwheat-porridge-wooden-bowl_7090600.htm#fromView=search&page=1&position=3&uuid=9565d93d-ac46-42e2-a86a-e57b94cbb8e0&query=гречка"
+            "image": "https://img.freepik.com/premium-photo/chicken-salad-with-pineapple-corn-cucumber-dressed-with-greek-yogurt-crushed-nuts-cheese_1048944-8784349.jpg?ga=GA1.1.1211218396.1743407391&semt=ais_hybrid&w=740"
         },
         {
             "id": 25,
@@ -149,7 +149,7 @@ const menuData = {
             "description": "Овощной винегрет с фасолью",
             "price": 65,
             "category": "salads",
-            "image": "https://www.freepik.com/free-photo/buckwheat-porridge-wooden-bowl_7090600.htm#fromView=search&page=1&position=3&uuid=9565d93d-ac46-42e2-a86a-e57b94cbb8e0&query=гречка"
+            "image": "https://img.freepik.com/premium-photo/beet-salad-vinaigrette-white-bowl_2829-18595.jpg?ga=GA1.1.1211218396.1743407391&semt=ais_hybrid&w=740"
         },
         {
             "id": 26,
@@ -157,7 +157,7 @@ const menuData = {
             "description": "Классическая селёдка под шубой",
             "price": 110,
             "category": "salads",
-            "image": "https://www.freepik.com/free-photo/buckwheat-porridge-wooden-bowl_7090600.htm#fromView=search&page=1&position=3&uuid=9565d93d-ac46-42e2-a86a-e57b94cbb8e0&query=гречка"
+            "image": "https://img.freepik.com/premium-photo/traditional-russian-salad-herring-fur-coat-shuba-wooden-table-layered-salad-with-herring-beets-carrots-onions-potatoes-eggs_491799-3313.jpg?ga=GA1.1.1211218396.1743407391&semt=ais_hybrid&w=740"
         },
         {
             "id": 27,
@@ -165,7 +165,7 @@ const menuData = {
             "description": "Свежие сезонные овощи",
             "price": 65,
             "category": "salads",
-            "image": "https://www.freepik.com/free-photo/buckwheat-porridge-wooden-bowl_7090600.htm#fromView=search&page=1&position=3&uuid=9565d93d-ac46-42e2-a86a-e57b94cbb8e0&query=гречка"
+            "image": "https://img.freepik.com/premium-photo/salad-tomatoes-cucumbers-plate-vegetables-wooden-table-healthy-food-concept_286393-1746.jpg?ga=GA1.1.1211218396.1743407391&semt=ais_hybrid&w=740"
         },
         
         // Напитки и десерты
